@@ -1,66 +1,79 @@
-<h1 align="center">Hi 👋, I'm Samir Ibourki</h1>
+<h1 align="center">Samir Ibourki</h1>
 <h3 align="center">Full-Stack Web & Mobile Developer</h3>
 
 <p align="center">
-I build scalable web & mobile applications using modern JavaScript technologies.
+Building scalable web & mobile applications with the JavaScript ecosystem
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 💻 Full-Stack Developer specialized in **React, React Native, Node.js & Express**
-- 📱 Building high-performance **web & mobile applications**
-- ⚡ Strong focus on **clean architecture & scalable solutions**
-- 💼 Open to collaborating on impactful projects
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend:**  
-:contentReference[oaicite:0]{index=0} • Tailwind CSS • JavaScript (ES6+) • React Query  
-
-**Mobile:**  
-:contentReference[oaicite:1]{index=1} • Expo  
-
-**Backend:**  
-:contentReference[oaicite:2]{index=2} • :contentReference[oaicite:3]{index=3} • REST APIs • :contentReference[oaicite:4]{index=4}  
-
-**Database:**  
-:contentReference[oaicite:5]{index=5}  
-
-**Tools:**  
-Git • GitHub • :contentReference[oaicite:6]{index=6}  
+- 🚀 Full-stack developer specialized in modern JavaScript technologies  
+- 📱 Building performant web & mobile applications  
+- 🔍 Currently exploring advanced backend architecture & GraphQL  
+- 💼 Open to full-stack development opportunities  
+- 📫 Reach me at: **samiribourki7@gmail.com**
 
 ---
 
-## 💼 Projects
+## 🛠 Tech Stack
 
-### 📱 JobNearMe
-Mobile app for local job search using geolocation.  
-**Stack:** React Native, Node.js, Express, PostgreSQL  
+**Frontend**  
+React.js • Tailwind CSS • React Query • JavaScript (ES6+)
 
-### 🛒 AgramBio Store
-Headless e-commerce platform for a Moroccan cooperative.  
-**Stack:** React.js, Tailwind, WooCommerce API, GraphQL  
+**Mobile**  
+React Native • Expo • Expo Router
 
-### 🏢 RiLyQueue
-MVP for on-demand service & queue management.  
-**Stack:** React.js, Tailwind, React Query  
+**Backend**  
+Node.js • Express.js • REST APIs • GraphQL
+
+**Database**  
+PostgreSQL • Sequelize
+
+**Tools**  
+Git • GitHub • Docker • CI/CD
 
 ---
 
-## 📫 Contact
+## 🚀 Featured Projects
 
-- 📧 samiribourki7@gmail.com  
-- 💼 LinkedIn  
-- 🌐 Portfolio  
+### JobNearMe
+Mobile job-search platform based on geolocation.
+
+**Stack:** React Native, Expo, Node.js, Express, PostgreSQL
+
+---
+
+### AgramBio Store
+Headless e-commerce platform for Moroccan natural products.
+
+**Stack:** React.js, Tailwind CSS, WooCommerce API, GraphQL
+
+---
+
+### RiLyQueue
+Queue and service management MVP.
+
+**Stack:** React.js, Tailwind CSS, React Query
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="YOUR_LINKEDIN_URL" target="_blank">LinkedIn</a> •
+<a href="YOUR_PORTFOLIO_URL" target="_blank">Portfolio</a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samir-ibourki&show_icons=true&locale=en" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samir-ibourki&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samir-ibourki&layout=compact" />
 </p>
