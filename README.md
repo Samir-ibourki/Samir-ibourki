@@ -62,18 +62,10 @@ Queue and service management MVP.
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL" target="_blank">LinkedIn</a> •
-<a href="YOUR_PORTFOLIO_URL" target="_blank">Portfolio</a>
+<a href="https://www.linkedin.com/in/samir-ibourki-500255199/" target="_blank">LinkedIn</a> •
+<a href="https://samir-ibourki.netlify.app/" target="_blank">Portfolio</a>
 </p>
 
----
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samir-ibourki&show_icons=true&theme=default" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samir-ibourki&layout=compact" />
-</p>
